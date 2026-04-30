@@ -147,10 +147,11 @@ python main.py
 
 <div class="section">
 <h2>👨‍💻 Author</h2>
-<p><b>Your Name</b></p>
-<p>
-LinkedIn: https://linkedin.com/in/yourprofile<br>
-Portfolio: https://yourportfolio.com
+<p><b>Sunidhi Singh</b></p>
+<p>📧 Connect with me on 
+<a href="https://www.linkedin.com/in/sunidhi-singh-4aa45233b" target="_blank">
+LinkedIn
+</a>
 </p>
 </div>
 
