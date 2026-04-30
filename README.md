@@ -15,7 +15,7 @@ Designed with a clean architecture and separation of concerns, this project demo
 </p>
 
 <blockquote>
-  💡 > 💡 Built to explore voice interfaces and AI integration in Python — expanding my skills beyond classroom theory into a real working project.
+  > 💡 Built to explore voice interfaces and AI integration in Python — expanding my skills beyond classroom theory into a real working project.
 </blockquote>
 
 <hr>
