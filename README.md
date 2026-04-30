@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
+![AI](https://img.shields.io/badge/AI-Mistral%207B-orange)
+![API](https://img.shields.io/badge/API-OpenRouter-blueviolet)
+
 # Jarvis AI Assistant
 
 <p>
