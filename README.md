@@ -1,47 +1,4 @@
 # jarvis-ai-assistant
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Jarvis AI Assistant</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            max-width: 900px;
-            margin: auto;
-            padding: 20px;
-            background-color: #f9f9f9;
-            color: #333;
-        }
-        h1, h2 {
-            color: #222;
-        }
-        code, pre {
-            background: #eee;
-            padding: 10px;
-            display: block;
-            overflow-x: auto;
-        }
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            margin: 15px 0;
-        }
-        table, th, td {
-            border: 1px solid #ccc;
-        }
-        th, td {
-            padding: 10px;
-            text-align: left;
-        }
-        .section {
-            margin-bottom: 40px;
-        }
-    </style>
-</head>
-<body>
 
 <h1>🤖 Jarvis AI Assistant</h1>
 
@@ -199,5 +156,3 @@ Portfolio: https://yourportfolio.com
 </p>
 </div>
 
-</body>
-</html>
