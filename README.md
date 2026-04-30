@@ -14,6 +14,10 @@ A modular, voice-controlled AI assistant built in Python that automates daily ta
 Designed with a clean architecture and separation of concerns, this project demonstrates practical skills in API integration, voice processing, and system design.
 </p>
 
+<blockquote>
+  💡 Built this because I wanted a hands-free way to manage my morning routine.
+</blockquote>
+
 <hr>
 
 <div class="section">
