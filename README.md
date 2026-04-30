@@ -35,16 +35,27 @@ Designed with a clean architecture and separation of concerns, this project demo
 <div class="section">
 <h2>🧠 Architecture Overview</h2>
 
+
 <pre>
 jarvis-ai-assistant/
 │
-├── main.py
-├── voice/
-├── features/
-├── config/
-├── assets/
-├── requirements.txt
-├── README.md
+├── 📄 <a href="./main.py">main.py</a>
+├── 📁 <a href="./voice/">voice/</a>
+│   ├── 📄 <a href="./voice/speech.py">speech.py</a>
+│   └── 📄 <a href="./voice/tts.py">tts.py</a>
+│
+├── 📁 <a href="./features/">features/</a>
+│   ├── 📄 <a href="./features/ai_chat.py">ai_chat.py</a>
+│   ├── 📄 <a href="./features/music.py">music.py</a>
+│   └── 📄 <a href="./features/weather.py">weather.py</a>
+│
+├── 📁 <a href="./config/">config/</a>
+│   └── 📄 <a href="./config/settings.py">settings.py</a>
+│
+├── 📄 <a href="./config.example.py">config.example.py</a>
+├── 📄 <a href="./requirements.txt">requirements.txt</a>
+├── 📄 <a href="./README.md">README.md</a>
+└── 📄 <a href="./.gitignore">.gitignore</a>
 </pre>
 
 </div>
