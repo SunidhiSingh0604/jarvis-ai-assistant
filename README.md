@@ -173,6 +173,7 @@ python main.py
 <a href="https://www.linkedin.com/in/sunidhi-singh-4aa45233b" target="_blank">
 LinkedIn
 </a>
+Passionate about building real-world AI and automation projects
 </p>
 </div>
 
