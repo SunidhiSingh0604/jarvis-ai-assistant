@@ -1,6 +1,4 @@
-# jarvis-ai-assistant
-
-<h1>🤖 Jarvis AI Assistant</h1>
+# Jarvis AI Assistant
 
 <p>
 A modular, voice-controlled AI assistant built in Python that automates daily tasks such as web browsing, music playback, real-time weather updates, and AI-powered conversations.
