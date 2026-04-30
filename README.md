@@ -168,12 +168,12 @@ python main.py
 
 <div class="section">
 <h2>👨‍💻 Author</h2>
-<p><b>Sunidhi Singh</b></p>
+<p>Hey, I'm Sunidhi Singh — focused on building practical AI and automation systems for real-world use.</p>
 <p>📧 Connect with me on 
 <a href="https://www.linkedin.com/in/sunidhi-singh-4aa45233b" target="_blank">
 LinkedIn
 </a>
-Passionate about building real-world AI and automation projects
+
 </p>
 </div>
 
