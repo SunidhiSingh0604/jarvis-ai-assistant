@@ -15,7 +15,7 @@ Designed with a clean architecture and separation of concerns, this project demo
 </p>
 
 <blockquote>
-  💡 Built this because I wanted a hands-free way to manage my morning routine.
+  💡 > 💡 Built to explore voice interfaces and AI integration in Python — expanding my skills beyond classroom theory into a real working project.
 </blockquote>
 
 <hr>
