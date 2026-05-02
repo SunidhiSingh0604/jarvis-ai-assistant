@@ -160,13 +160,6 @@ python main.py
 <hr>
 
 <div class="section">
-<h2>📸 Demo</h2>
-<p>Add screenshots or demo GIF in assets folder.</p>
-</div>
-
-<hr>
-
-<div class="section">
 <h2>👨‍💻 Author</h2>
 <p>Hey, I'm Sunidhi Singh — focused on building practical AI and automation systems for real-world use.</p>
 <p>📧 Connect with me on 
